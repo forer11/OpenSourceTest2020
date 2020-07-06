@@ -1,4 +1,6 @@
 # Open source Test
+In this app with the movement sensor from the sensei open source project, when we 
+recognize movement the animation plays, and when we stop it stops.
 
 ## Lior Forer
 
